@@ -18,8 +18,7 @@ This Power BI dashboard provides an overview of Amazon’s sales, fulfillment, a
 - **Size distribution of products sold**
 
 ### **Tools Used**
-- Power BI![Screenshot 2025-03-06 152518](https://github.com/user-attachments/assets/53d98ef4-6bcd-426e-b924-9c8c6526a5b6)
-
+- Power BI!
 - DAX
 - Power Query
 
@@ -31,7 +30,7 @@ This Power BI dashboard provides an overview of Amazon’s sales, fulfillment, a
 This dashboard is useful for tracking e-commerce trends and optimizing fulfillment strategies.
 
 
-- Power BI![Screenshot 2025-03-06 152518](https://github.com/user-attachments/assets/53d98ef4-6bcd-426e-b924-9c8c6526a5b6)
+- ![Screenshot 2025-03-06 152518](https://github.com/user-attachments/assets/53d98ef4-6bcd-426e-b924-9c8c6526a5b6)
 # Financial Dashboard
 
 This dashboard presents revenue insights for a retail business, including:
